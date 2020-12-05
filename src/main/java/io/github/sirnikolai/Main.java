@@ -49,5 +49,6 @@ public class Main {
         solutions.put(2, new Day2());
         solutions.put(3, new Day3());
         solutions.put(4, new Day4());
+        solutions.put(5, new Day5());
     }
 }
