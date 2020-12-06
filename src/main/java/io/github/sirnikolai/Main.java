@@ -50,5 +50,6 @@ public class Main {
         solutions.put(3, new Day3());
         solutions.put(4, new Day4());
         solutions.put(5, new Day5());
+        solutions.put(6, new Day6());
     }
 }
