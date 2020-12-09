@@ -53,5 +53,6 @@ public class Main {
         solutions.put(6, new Day6());
         solutions.put(7, new Day7());
         solutions.put(8, new Day8());
+        solutions.put(9, new Day9());
     }
 }
