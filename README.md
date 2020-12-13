@@ -19,8 +19,8 @@ Really doing this as a speed test so however messy this is, is what it took me t
 | Day 9  | [Input 9](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/resources/Day9.txt)   | [Sol 9](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/java/io/github/sirnikolai/days/Day9.java)   | 00:13:42 | 00:33:11 |  
 | Day 10 | [Input 10](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/resources/Day10.txt) | [Sol 10](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/java/io/github/sirnikolai/days/Day10.java) | 00:08:57 | 00:26:50 | 
 | Day 11 | [Input 11](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/resources/Day11.txt) | [Sol 11](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/java/io/github/sirnikolai/days/Day11.java) | 00:22:22 | 00:26:27 |
-| Day 12 | Input 12 | Sol 12 |               |               |
-| Day 13 | Input 13 | Sol 13 |               |               |
+| Day 12 | [Input 12](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/resources/Day12.txt) | [Sol 12](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/java/io/github/sirnikolai/days/Day12.java) | 00:15:09 | 00:23:37 |
+| Day 13 | [Input 13](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/resources/Day13.txt) | [Sol 13](https://github.com/sirNikolai/AdventOfCode2020/blob/master/src/main/java/io/github/sirnikolai/days/Day13.java) | 00:18:39 | 00:37:09 |
 | Day 14 | Input 14 | Sol 14 |               |               |
 | Day 15 | Input 15 | Sol 15 |               |               |
 | Day 16 | Input 16 | Sol 16 |               |               | 
