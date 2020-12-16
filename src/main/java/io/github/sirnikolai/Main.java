@@ -37,13 +37,14 @@ public class Main {
         toRun.Part2(input);
     }
 
-    private static String parseDayInput(int day) throws IOException {
+    public static String parseDayInput(int day) throws IOException {
         String path = String.format("Day%d.txt", day);
         Path p = Paths.get("src", "main", "resources", path);
         List<String> lst = Files.readAllLines(p);
         
         return String.join("\n", lst);
     }
+
     private static void populateMap() {
         solutions.put(1, new Day1());
         solutions.put(2, new Day2());
@@ -60,5 +61,6 @@ public class Main {
         solutions.put(13, new Day13());
         solutions.put(14, new Day14());
         solutions.put(15, new Day15());
+        solutions.put(16, new Day16());
     }
 }
