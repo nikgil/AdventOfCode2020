@@ -6,9 +6,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class Main {
 
@@ -62,5 +60,7 @@ public class Main {
         solutions.put(14, new Day14());
         solutions.put(15, new Day15());
         solutions.put(16, new Day16());
+        solutions.put(17, new Day17());
+        solutions.put(18, new Day18());
     }
 }
